@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="FluentAssertions" Version="8.10.0" />
+    <PackageReference Include="FsCheck.Xunit" Version="3.3.3" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="NSubstitute" Version="5.3.0" />
+    <PackageReference Include="xunit" Version="2.5.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\CodeCompass.Core\CodeCompass.Core.csproj" />
+    <ProjectReference Include="..\..\src\CodeCompass.Parsing\CodeCompass.Parsing.csproj" />
+    <ProjectReference Include="..\..\src\CodeCompass.Chunking\CodeCompass.Chunking.csproj" />
+    <ProjectReference Include="..\..\src\CodeCompass.Embedding\CodeCompass.Embedding.csproj" />
+    <ProjectReference Include="..\..\src\CodeCompass.Storage\CodeCompass.Storage.csproj" />
+    <ProjectReference Include="..\..\src\CodeCompass.Search\CodeCompass.Search.csproj" />
+    <ProjectReference Include="..\..\src\CodeCompass.Indexing\CodeCompass.Indexing.csproj" />
+    <ProjectReference Include="..\..\src\CodeCompass.Pipeline\CodeCompass.Pipeline.csproj" />
+  </ItemGroup>
+
+</Project>

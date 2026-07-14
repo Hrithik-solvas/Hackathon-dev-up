@@ -1,0 +1,60 @@
+C:\CodeCompass\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.deps.json
+C:\CodeCompass\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.dll
+C:\CodeCompass\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.pdb
+C:\CodeCompass\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Core.dll
+C:\CodeCompass\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Core.pdb
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.csproj.AssemblyReference.cache
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.AssemblyInfoInputs.cache
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.AssemblyInfo.cs
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.csproj.CoreCompileInputs.cache
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeComp.289DCC7B.Up2Date
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.dll
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\refint\CodeCompass.Embedding.dll
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.pdb
+C:\CodeCompass\src\CodeCompass.Embedding\obj\Debug\net8.0\ref\CodeCompass.Embedding.dll
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.deps.json
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.dll
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.pdb
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Core.dll
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Core.pdb
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.csproj.AssemblyReference.cache
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.AssemblyInfoInputs.cache
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.AssemblyInfo.cs
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.csproj.CoreCompileInputs.cache
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeComp.289DCC7B.Up2Date
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.dll
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\refint\CodeCompass.Embedding.dll
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.pdb
+C:\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\ref\CodeCompass.Embedding.dll
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.csproj.AssemblyReference.cache
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.AssemblyInfoInputs.cache
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.AssemblyInfo.cs
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.csproj.CoreCompileInputs.cache
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.dll
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\refint\CodeCompass.Embedding.dll
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.pdb
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.deps.json
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.dll
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.pdb
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Core.dll
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Core.pdb
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeComp.289DCC7B.Up2Date
+C:\Users\VM112\OneDrive - AlterDomus\Desktop\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\ref\CodeCompass.Embedding.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.csproj.AssemblyReference.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.AssemblyInfoInputs.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.AssemblyInfo.cs
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.csproj.CoreCompileInputs.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\refint\CodeCompass.Embedding.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeCompass.Embedding.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.deps.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Embedding.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Core.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\bin\Debug\net8.0\CodeCompass.Core.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\CodeComp.289DCC7B.Up2Date
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Embedding\obj\Debug\net8.0\ref\CodeCompass.Embedding.dll

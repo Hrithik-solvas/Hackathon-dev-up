@@ -1,0 +1,477 @@
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.staticwebassets.endpoints.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.exe
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.deps.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.runtimeconfig.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.pdb
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.xml
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Application.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Repository.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Application.pdb
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Repository.pdb
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.csproj.AssemblyReference.cache
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.AssemblyInfoInputs.cache
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.AssemblyInfo.cs
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.csproj.CoreCompileInputs.cache
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\scopedcss\bundle\CodeCompassProject.CodeCompass.Api.styles.css
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeComp.AFC7DACF.Up2Date
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\refint\CodeCompassProject.CodeCompass.Api.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.xml
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.pdb
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.genruntimeconfig.cache
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\ref\CodeCompassProject.CodeCompass.Api.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\refint\CodeCompassProject.CodeCompass.Api.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.xml
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\appsettings.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.staticwebassets.endpoints.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.exe
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.deps.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.runtimeconfig.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.xml
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.Core.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.Identity.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.ClientModel.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Memory.Data.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Core.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Application.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Repository.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Application.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Repository.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Core.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.csproj.AssemblyReference.cache
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.AssemblyInfoInputs.cache
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.AssemblyInfo.cs
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.csproj.CoreCompileInputs.cache
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\scopedcss\bundle\CodeCompassProject.CodeCompass.Api.styles.css
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets\msbuild.CodeCompassProject.CodeCompass.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets\msbuild.CodeCompassProject.CodeCompass.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.CodeCompassProject.CodeCompass.Api.props
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CodeCompassProject.CodeCompass.Api.props
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CodeCompassProject.CodeCompass.Api.props
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.pack.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeComp.AFC7DACF.Up2Date
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.genruntimeconfig.cache
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\ref\CodeCompassProject.CodeCompass.Api.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Pipeline.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Parsing.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Chunking.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Embedding.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Search.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Indexing.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Pipeline.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Parsing.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Chunking.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Embedding.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Search.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Indexing.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.AI.OpenAI.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.Search.Documents.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Humanizer.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\OpenAI.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Core.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Fonts.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Package.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Tokenization.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Tokens.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Collections.Immutable.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.IO.Pipelines.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Reflection.Metadata.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Text.Encodings.Web.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Text.Json.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Threading.Channels.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Storage.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Storage.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.staticwebassets.endpoints.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.exe
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.deps.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.runtimeconfig.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Api.xml
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\AWSSDK.BedrockRuntime.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\AWSSDK.OpenSearchService.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Azure.Search.Documents.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Humanizer.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\OpenSearch.Client.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\OpenSearch.Net.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Core.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Fonts.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Package.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Tokenization.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.Tokens.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\UglyToad.PdfPig.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Collections.Immutable.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.IO.Pipelines.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Reflection.Metadata.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Text.Encodings.Web.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Threading.Channels.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Chunking.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Core.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Embedding.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Indexing.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Parsing.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Pipeline.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Search.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Storage.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Application.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Repository.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Application.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Repository.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Chunking.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Core.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Embedding.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Indexing.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Parsing.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Pipeline.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Search.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\bin\Debug\net9.0\CodeCompass.Storage.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.csproj.AssemblyReference.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.AssemblyInfoInputs.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.AssemblyInfo.cs
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.csproj.CoreCompileInputs.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\scopedcss\bundle\CodeCompassProject.CodeCompass.Api.styles.css
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeComp.AFC7DACF.Up2Date
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\refint\CodeCompassProject.CodeCompass.Api.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.xml
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Api.genruntimeconfig.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Api\obj\Debug\net9.0\ref\CodeCompassProject.CodeCompass.Api.dll

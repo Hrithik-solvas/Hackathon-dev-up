@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.BedrockRuntime" Version="3.7.414.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="5.6.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Workspaces" Version="5.6.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeCompassProject.CodeCompass.Application\CodeCompassProject.CodeCompass.Application.csproj" />
+    <ProjectReference Include="..\CodeCompassProject.CodeCompass.Domain\CodeCompassProject.CodeCompass.Domain.csproj" />
+    <ProjectReference Include="..\..\..\CodeCompass.RAG\src\CodeCompass.Core\CodeCompass.Core.csproj" />
+    <ProjectReference Include="..\..\..\CodeCompass.RAG\src\CodeCompass.Pipeline\CodeCompass.Pipeline.csproj" />
+  </ItemGroup>
+
+</Project>

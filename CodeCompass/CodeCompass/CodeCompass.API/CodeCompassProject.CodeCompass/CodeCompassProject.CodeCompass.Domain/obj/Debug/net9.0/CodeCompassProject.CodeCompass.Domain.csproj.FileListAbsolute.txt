@@ -1,0 +1,33 @@
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.deps.json
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.AssemblyInfoInputs.cache
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.AssemblyInfo.cs
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\refint\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\Users\cs328\source\repos\CodeCompass\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\ref\CodeCompassProject.CodeCompass.Domain.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.deps.json
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.AssemblyInfoInputs.cache
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.AssemblyInfo.cs
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.csproj.CoreCompileInputs.cache
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\refint\CodeCompassProject.CodeCompass.Domain.dll
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\ref\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.deps.json
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\bin\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.AssemblyInfoInputs.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.AssemblyInfo.cs
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\refint\CodeCompassProject.CodeCompass.Domain.dll
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\CodeCompassProject.CodeCompass.Domain.pdb
+C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.API\CodeCompassProject.CodeCompass\CodeCompassProject.CodeCompass.Domain\obj\Debug\net9.0\ref\CodeCompassProject.CodeCompass.Domain.dll
