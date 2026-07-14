@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CodeCompassProject.CodeCompass.Api.props" />
-</Project>

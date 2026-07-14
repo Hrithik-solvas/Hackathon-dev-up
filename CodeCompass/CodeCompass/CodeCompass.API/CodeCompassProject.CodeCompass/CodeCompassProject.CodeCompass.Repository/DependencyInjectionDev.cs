@@ -34,9 +34,10 @@ public static class DependencyInjectionDev
         services.Configure<KnowledgeBasesSettings>(
             configuration.GetSection(KnowledgeBasesSettings.SectionName));
 
-        // LOCAL services — no external API calls needed.
-        // Uses BM25 text search (keyword matching) for accurate results without AI embeddings.
-        services.AddScoped<ILLMService, LocalLLMService>();
+        // LLM: Tries Amazon Bedrock (Claude) first, falls back to local with warning
+        services.Configure<Configuration.GeminiSettings>(
+            configuration.GetSection(Configuration.GeminiSettings.SectionName));
+        services.AddScoped<ILLMService, FallbackLLMService>();
         services.AddScoped<IEmbeddingService, LocalTfIdfEmbeddingService>();
 
         // Override vector search with BM25 full-text search (much better results)

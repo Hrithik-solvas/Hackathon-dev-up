@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CodeCompassProject.CodeCompass.Api.props" />
-</Project>

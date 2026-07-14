@@ -32,53 +32,70 @@ public class LocalLLMService : ILLMService
         }
         else
         {
-            // Extract the most relevant sentences from chunks that contain query keywords
+            // Clean chunks - remove [Source: ...] prefix
+            var cleanedChunks = chunks.Select(chunk =>
+            {
+                var text = chunk;
+                if (text.StartsWith("[Source:"))
+                {
+                    var endBracket = text.IndexOf(']');
+                    if (endBracket > 0) text = text[(endBracket + 1)..].Trim();
+                }
+                return text;
+            }).ToList();
+
+            // Extract query keywords (ignore common words)
+            var stopWords = new HashSet<string> { "what", "is", "a", "an", "the", "how", "does", "do", "can", "which", "where", "when", "why", "are", "was", "were", "been", "being", "have", "has", "had", "will", "would", "could", "should", "may", "might", "shall", "this", "that", "these", "those", "in", "on", "at", "to", "for", "of", "with", "by", "from", "about", "between", "through", "during", "before", "after", "above", "below", "and", "or", "but", "not", "no", "if", "then", "than", "so", "it", "its" };
             var queryWords = userMessage.Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                .Where(w => w.Length > 2)
-                .Select(w => w.TrimEnd('?', '.', '!').ToLowerInvariant())
+                .Select(w => w.Trim('?', '.', '!', ',').ToLowerInvariant())
+                .Where(w => w.Length > 1 && !stopWords.Contains(w))
                 .ToHashSet();
 
-            var relevantSentences = new List<string>();
+            // Score each sentence by how many query keywords it contains
+            var scoredSentences = new List<(string Sentence, int Score)>();
 
-            foreach (var chunk in chunks)
+            foreach (var chunk in cleanedChunks)
             {
-                // Remove the [Source: ...] prefix
-                var text = chunk;
-                var sourceEnd = text.IndexOf(']');
-                if (text.StartsWith("[Source:") && sourceEnd > 0)
-                    text = text[(sourceEnd + 1)..].Trim();
-
-                // Split into sentences and find ones matching query keywords
-                var sentences = text.Split(new[] { ". ", ".\n", ".\r" }, StringSplitOptions.RemoveEmptyEntries)
-                    .Select(s => s.Trim())
-                    .Where(s => s.Length > 20)
+                // Split into sentences (handle markdown tables, bullet points, etc.)
+                var lines = chunk.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(l => l.Trim())
+                    .Where(l => l.Length > 15 && !l.StartsWith("---") && !l.StartsWith("```"))
                     .ToList();
 
-                foreach (var sentence in sentences)
+                foreach (var line in lines)
                 {
-                    var lower = sentence.ToLowerInvariant();
-                    if (queryWords.Any(w => lower.Contains(w)))
+                    var lower = line.ToLowerInvariant();
+                    var score = queryWords.Count(w => lower.Contains(w));
+                    if (score > 0)
                     {
-                        var cleaned = sentence.TrimEnd('.') + ".";
-                        if (!relevantSentences.Contains(cleaned) && relevantSentences.Count < 5)
-                            relevantSentences.Add(cleaned);
+                        scoredSentences.Add((line, score));
                     }
                 }
             }
 
-            if (relevantSentences.Count > 0)
+            // Take the top-scoring unique sentences
+            var bestSentences = scoredSentences
+                .OrderByDescending(s => s.Score)
+                .Select(s => s.Sentence)
+                .Distinct()
+                .Take(8)
+                .ToList();
+
+            if (bestSentences.Count > 0)
             {
-                answer = string.Join("\n\n", relevantSentences);
+                var sb = new System.Text.StringBuilder();
+                sb.AppendLine($"Based on the documentation, here's what I found about your question:\n");
+                foreach (var sentence in bestSentences)
+                {
+                    sb.AppendLine($"• {sentence}");
+                }
+                answer = sb.ToString().Trim();
             }
             else
             {
-                // Fallback: use first 300 chars of first chunk
-                var firstChunk = chunks[0];
-                var sourceEnd = firstChunk.IndexOf(']');
-                if (firstChunk.StartsWith("[Source:") && sourceEnd > 0)
-                    firstChunk = firstChunk[(sourceEnd + 1)..].Trim();
-
-                answer = firstChunk.Length > 500 ? firstChunk[..500] + "..." : firstChunk;
+                // Fallback: use first chunk content directly
+                var firstChunk = cleanedChunks[0];
+                answer = firstChunk.Length > 600 ? firstChunk[..600] + "..." : firstChunk;
             }
         }
 

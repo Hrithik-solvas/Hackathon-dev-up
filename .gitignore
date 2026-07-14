@@ -6,14 +6,16 @@
 **/.aws/config
 **/.aws/sso/
 
+# Build outputs - never commit these
+bin/
+obj/
+**/bin/
+**/obj/
+
 # IDE
 .vs/
 *.user
 *.suo
-
-# Build outputs
-bin/
-obj/
 
 # OS
 Thumbs.db
