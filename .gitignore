@@ -1,0 +1,20 @@
+# AWS credentials - never commit these
+.aws/credentials
+.aws/config
+.aws/sso/
+**/.aws/credentials
+**/.aws/config
+**/.aws/sso/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# OS
+Thumbs.db
+.DS_Store
