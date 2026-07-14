@@ -58,3 +58,19 @@ C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\refint\CodeCompass.Storage.dll
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.pdb
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\ref\CodeCompass.Storage.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\bin\Debug\net8.0\CodeCompass.Storage.deps.json
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\bin\Debug\net8.0\CodeCompass.Storage.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\bin\Debug\net8.0\CodeCompass.Storage.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\bin\Debug\net8.0\CodeCompass.Core.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\bin\Debug\net8.0\CodeCompass.Core.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.csproj.AssemblyReference.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.AssemblyInfoInputs.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.AssemblyInfo.cs
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.csproj.CoreCompileInputs.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.sourcelink.json
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeComp.45659474.Up2Date
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\refint\CodeCompass.Storage.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\CodeCompass.Storage.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Storage\obj\Debug\net8.0\ref\CodeCompass.Storage.dll

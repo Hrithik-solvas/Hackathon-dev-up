@@ -1,3 +1,4 @@
+using System.Linq;
 using System.Text.Json;
 using Amazon;
 using Amazon.BedrockRuntime;
@@ -112,18 +113,21 @@ public class BedrockEmbeddingGenerator : IEmbeddingGenerator
         {
             cancellationToken.ThrowIfCancellationRequested();
 
-            _logger.LogDebug("Processing batch of {BatchCount} items", batch.Count);
+            _logger.LogDebug("Processing batch of {BatchCount} items in parallel", batch.Count);
 
             try
             {
                 // Bedrock Titan doesn't support batch embedding in a single call,
-                // so we process each item individually within the batch
-                foreach (var text in batch)
-                {
-                    float[] embedding = await _retryPolicy.ExecuteAsync(
+                // so we process items in parallel within the batch for better throughput.
+                var tasks = batch.Select(text =>
+                    _retryPolicy.ExecuteAsync(
                         ct => InvokeBedrockEmbeddingAsync(text, ct),
-                        cancellationToken).ConfigureAwait(false);
+                        cancellationToken)).ToArray();
 
+                var batchResults = await Task.WhenAll(tasks).ConfigureAwait(false);
+
+                foreach (var embedding in batchResults)
+                {
                     allEmbeddings.Add(NormalizeVector(embedding));
                 }
             }

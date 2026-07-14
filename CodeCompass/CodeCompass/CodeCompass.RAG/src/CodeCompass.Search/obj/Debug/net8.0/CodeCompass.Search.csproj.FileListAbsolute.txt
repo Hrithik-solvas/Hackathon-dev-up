@@ -58,3 +58,19 @@ C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\bin\Debug\net8.0\CodeCompass.Core.pdb
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeComp.2CEF70D0.Up2Date
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\ref\CodeCompass.Search.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\bin\Debug\net8.0\CodeCompass.Search.deps.json
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\bin\Debug\net8.0\CodeCompass.Search.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\bin\Debug\net8.0\CodeCompass.Search.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\bin\Debug\net8.0\CodeCompass.Core.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\bin\Debug\net8.0\CodeCompass.Core.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeCompass.Search.csproj.AssemblyReference.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeCompass.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeCompass.Search.AssemblyInfoInputs.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeCompass.Search.AssemblyInfo.cs
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeCompass.Search.csproj.CoreCompileInputs.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeCompass.Search.sourcelink.json
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeComp.2CEF70D0.Up2Date
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeCompass.Search.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\refint\CodeCompass.Search.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\CodeCompass.Search.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Search\obj\Debug\net8.0\ref\CodeCompass.Search.dll

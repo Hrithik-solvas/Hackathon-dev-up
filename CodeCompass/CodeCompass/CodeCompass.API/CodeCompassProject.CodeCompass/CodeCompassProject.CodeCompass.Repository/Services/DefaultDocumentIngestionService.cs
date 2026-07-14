@@ -53,8 +53,18 @@ public class DefaultDocumentIngestionService : IDocumentIngestionService
         var maxChunkSize = _settings.MaxChunkSize;
         var overlap = _settings.ChunkOverlap;
 
+        _logger.LogInformation("[CHUNK] ChunkText called: textLength={Length}, maxChunkSize={MaxChunk}, overlap={Overlap}", 
+            text.Length, maxChunkSize, overlap);
+
         if (string.IsNullOrWhiteSpace(text))
             return chunks;
+
+        // Safety: ensure overlap is less than maxChunkSize to prevent infinite loops
+        if (overlap >= maxChunkSize)
+        {
+            overlap = maxChunkSize / 4;
+            _logger.LogWarning("[CHUNK] Overlap >= MaxChunkSize, reduced overlap to {Overlap}", overlap);
+        }
 
         var position = 0;
         var chunkIndex = 0;
@@ -87,13 +97,19 @@ public class DefaultDocumentIngestionService : IDocumentIngestionService
                 }
             });
 
-            position += length - overlap;
+            var advance = length - overlap;
+            if (advance <= 0)
+            {
+                _logger.LogWarning("[CHUNK] Advance <= 0 (length={Length}, overlap={Overlap}). Forcing advance to 1.", length, overlap);
+                advance = length > 0 ? length : 1;
+            }
+            position += advance;
             chunkIndex++;
 
             if (position >= text.Length) break;
         }
 
-        _logger.LogDebug("Created {ChunkCount} chunks from document {SourceUri}", chunks.Count, sourceUri);
+        _logger.LogInformation("[CHUNK] Created {ChunkCount} chunks from {SourceUri}", chunks.Count, sourceUri);
         return chunks;
     }
 

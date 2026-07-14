@@ -20,6 +20,10 @@ public static class DependencyInjection
         // Register RAG pipeline (parsers, embedding, search, indexing)
         services.AddCodeCompassPipeline(configuration);
 
+        // Bind Repository-level ingestion settings (MaxChunkSize, ChunkOverlap)
+        services.Configure<Configuration.IngestionSettings>(
+            configuration.GetSection(Configuration.IngestionSettings.SectionName));
+
         // Configuration
         services.Configure<KnowledgeBasesSettings>(
             configuration.GetSection(KnowledgeBasesSettings.SectionName));

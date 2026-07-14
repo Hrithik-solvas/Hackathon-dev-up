@@ -1,4 +1,5 @@
 using CodeCompass.Core.Interfaces;
+using CodeCompass.Core.Configuration;
 using CodeCompass.Pipeline;
 using CodeCompassProject.CodeCompass.Application.Commands;
 using CodeCompassProject.CodeCompass.Application.CQRS;
@@ -25,13 +26,25 @@ public static class DependencyInjectionDev
         // Use the real RAG pipeline in Development so chat and ingestion exercise the AWS/OpenSearch stack.
         services.AddCodeCompassPipeline(configuration);
 
+        // Bind Repository-level ingestion settings (MaxChunkSize, ChunkOverlap)
+        services.Configure<Configuration.IngestionSettings>(
+            configuration.GetSection(Configuration.IngestionSettings.SectionName));
+
         // Configuration
         services.Configure<KnowledgeBasesSettings>(
             configuration.GetSection(KnowledgeBasesSettings.SectionName));
 
-        // Use the real Bedrock-backed LLM so Development exercises the same chat path.
-        services.AddScoped<ILLMService, BedrockLLMService>();
-        services.AddScoped<IEmbeddingService, EmbeddingServiceAdapter>();
+        // LOCAL services — no external API calls needed.
+        // Uses BM25 text search (keyword matching) for accurate results without AI embeddings.
+        services.AddScoped<ILLMService, LocalLLMService>();
+        services.AddScoped<IEmbeddingService, LocalTfIdfEmbeddingService>();
+
+        // Override vector search with BM25 full-text search (much better results)
+        services.AddSingleton<IVectorSearch, BM25TextSearchService>();
+
+        // Keep local embedding generator for ingestion (stores vectors, but search uses BM25)
+        services.AddSingleton<IEmbeddingGenerator, LocalEmbeddingGenerator>();
+
         services.AddScoped<CodeCompassProject.CodeCompass.Application.Interfaces.IVectorStore, RagVectorStoreAdapter>();
 
         // Question routing (real implementation - no Azure dependency)

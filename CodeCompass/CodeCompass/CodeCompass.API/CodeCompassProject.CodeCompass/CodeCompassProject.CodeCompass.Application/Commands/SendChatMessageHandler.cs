@@ -57,54 +57,13 @@ public class SendChatMessageHandler : ICommandHandler<SendChatMessageCommand, Ch
         // 2. Search relevant knowledge base(s) based on classification
         var searchHits = new List<SearchHit>();
 
-        switch (classification)
-        {
-            case QuestionClassification.Product:
-            {
-                var searchRequest = new SearchRequest(
-                    command.Question,
-                    TopK: 5,
-                    Filter: new SearchFilter(SourcePathPrefix: _knowledgeBasesSettings.Product.SourcePathPrefix));
-                var searchResult = await _vectorSearch.SearchAsync(searchRequest, cancellationToken);
-                searchHits.AddRange(searchResult.Hits);
-                break;
-            }
-            case QuestionClassification.TechStack:
-            {
-                var searchRequest = new SearchRequest(
-                    command.Question,
-                    TopK: 5,
-                    Filter: new SearchFilter(SourcePathPrefix: _knowledgeBasesSettings.TechStack.SourcePathPrefix));
-                var searchResult = await _vectorSearch.SearchAsync(searchRequest, cancellationToken);
-                searchHits.AddRange(searchResult.Hits);
-                break;
-            }
-            case QuestionClassification.Both:
-            {
-                var productRequest = new SearchRequest(
-                    command.Question,
-                    TopK: 5,
-                    Filter: new SearchFilter(SourcePathPrefix: _knowledgeBasesSettings.Product.SourcePathPrefix));
-                var techStackRequest = new SearchRequest(
-                    command.Question,
-                    TopK: 5,
-                    Filter: new SearchFilter(SourcePathPrefix: _knowledgeBasesSettings.TechStack.SourcePathPrefix));
-
-                var productTask = _vectorSearch.SearchAsync(productRequest, cancellationToken);
-                var techStackTask = _vectorSearch.SearchAsync(techStackRequest, cancellationToken);
-                await Task.WhenAll(productTask, techStackTask);
-
-                var productResult = await productTask;
-                var techStackResult = await techStackTask;
-
-                searchHits = productResult.Hits
-                    .Concat(techStackResult.Hits)
-                    .OrderByDescending(h => h.RelevanceScore)
-                    .Take(5)
-                    .ToList();
-                break;
-            }
-        }
+        // Search without filters — use pure k-NN vector similarity across all documents
+        var searchRequest = new SearchRequest(
+            command.Question,
+            TopK: 5,
+            Filter: null);
+        var searchResult = await _vectorSearch.SearchAsync(searchRequest, cancellationToken);
+        searchHits.AddRange(searchResult.Hits);
 
         _logger.LogInformation("Retrieved {ChunkCount} relevant chunks", searchHits.Count);
 

@@ -58,3 +58,19 @@ C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\refint\CodeCompass.Parsing.dll
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.pdb
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\ref\CodeCompass.Parsing.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\bin\Debug\net8.0\CodeCompass.Parsing.deps.json
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\bin\Debug\net8.0\CodeCompass.Parsing.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\bin\Debug\net8.0\CodeCompass.Parsing.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\bin\Debug\net8.0\CodeCompass.Core.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\bin\Debug\net8.0\CodeCompass.Core.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.csproj.AssemblyReference.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.AssemblyInfoInputs.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.AssemblyInfo.cs
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.csproj.CoreCompileInputs.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.sourcelink.json
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeComp.FE4A502D.Up2Date
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\refint\CodeCompass.Parsing.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\CodeCompass.Parsing.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Parsing\obj\Debug\net8.0\ref\CodeCompass.Parsing.dll

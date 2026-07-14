@@ -37,11 +37,59 @@ public class IngestDocumentsHandler : ICommandHandler<IngestDocumentsCommand, In
             var sourceUri = file.FileName;
 
             // 1. Chunk the document
+            _logger.LogInformation("[INGEST] Starting chunking for {FileName}", sourceUri);
             var chunks = (await _ingestionService.ChunkDocumentAsync(stream, sourceUri, cancellationToken)).ToList();
+            _logger.LogInformation("[INGEST] Chunking complete: {ChunkCount} chunks created", chunks.Count);
 
             // 2. Generate embeddings for each chunk
             var contents = chunks.Select(c => c.Content).ToList();
-            var embeddings = (await _embeddingService.GetEmbeddingsAsync(contents, cancellationToken)).ToList();
+            _logger.LogInformation("[INGEST] Starting embedding generation for {Count} chunks...", contents.Count);
+            
+            var sw = System.Diagnostics.Stopwatch.StartNew();
+            var embeddings = new List<float[]>();
+            for (var i = 0; i < contents.Count; i++)
+            {
+                try
+                {
+                    _logger.LogDebug("[INGEST] Calling Bedrock for chunk {Index}...", i);
+                    using var cts = CancellationTokenSource.CreateLinkedTokenSource(cancellationToken);
+                    cts.CancelAfter(TimeSpan.FromSeconds(15)); // 15s timeout per embedding
+                    
+                    var embedding = await _embeddingService.GetEmbeddingAsync(contents[i], cts.Token);
+                    
+                    // Fail fast if first embedding returns empty (likely auth error)
+                    if (i == 0 && (embedding == null || embedding.Length == 0))
+                    {
+                        _logger.LogError("[INGEST] FATAL: First embedding returned empty vector. AWS credentials are likely invalid. Aborting ingestion.");
+                        throw new InvalidOperationException(
+                            "Embedding generation failed - AWS Bedrock returned empty vector. " +
+                            "Please check your AWS credentials (AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_SESSION_TOKEN) are valid and not expired.");
+                    }
+                    
+                    embeddings.Add(embedding);
+                    if ((i + 1) % 5 == 0 || i == 0)
+                    {
+                        _logger.LogInformation("[INGEST] Embedded chunk {Current}/{Total} ({ElapsedMs}ms elapsed)", 
+                            i + 1, contents.Count, sw.ElapsedMilliseconds);
+                    }
+                }
+                catch (OperationCanceledException)
+                {
+                    _logger.LogError("[INGEST] TIMEOUT on chunk {Index} after 15s - Bedrock call hung", i);
+                    embeddings.Add(Array.Empty<float>());
+                }
+                catch (InvalidOperationException)
+                {
+                    throw; // Re-throw our fail-fast error
+                }
+                catch (Exception ex)
+                {
+                    _logger.LogError(ex, "[INGEST] FAILED embedding chunk {Index}: {Message}", i, ex.Message);
+                    embeddings.Add(Array.Empty<float>());
+                }
+            }
+            sw.Stop();
+            _logger.LogInformation("[INGEST] All embeddings done in {ElapsedMs}ms", sw.ElapsedMilliseconds);
 
             for (var i = 0; i < chunks.Count; i++)
             {
@@ -58,8 +106,10 @@ public class IngestDocumentsHandler : ICommandHandler<IngestDocumentsCommand, In
             }
 
             // 3. Store in vector store
+            _logger.LogInformation("[INGEST] Storing {Count} chunks in vector store...", chunks.Count);
             await _vectorStore.StoreAsync(chunks, cancellationToken);
             totalChunks += chunks.Count;
+            _logger.LogInformation("[INGEST] Store complete for {FileName}", sourceUri);
 
             _logger.LogInformation("Ingested {ChunkCount} chunks from {FileName}", chunks.Count, file.FileName);
         }

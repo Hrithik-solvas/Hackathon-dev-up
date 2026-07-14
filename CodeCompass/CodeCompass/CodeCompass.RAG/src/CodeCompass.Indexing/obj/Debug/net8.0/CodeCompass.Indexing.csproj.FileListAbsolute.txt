@@ -58,3 +58,19 @@ C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\refint\CodeCompass.Indexing.dll
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.pdb
 C:\Users\cs328\source\repos\Hackathon\CodeCompass 1\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\ref\CodeCompass.Indexing.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\bin\Debug\net8.0\CodeCompass.Indexing.deps.json
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\bin\Debug\net8.0\CodeCompass.Indexing.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\bin\Debug\net8.0\CodeCompass.Indexing.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\bin\Debug\net8.0\CodeCompass.Core.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\bin\Debug\net8.0\CodeCompass.Core.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.csproj.AssemblyReference.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.AssemblyInfoInputs.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.AssemblyInfo.cs
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.csproj.CoreCompileInputs.cache
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.sourcelink.json
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeComp.5B5CCDA4.Up2Date
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\refint\CodeCompass.Indexing.dll
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\CodeCompass.Indexing.pdb
+C:\Users\VM112\source\repos\Hackathon-dev-up\CodeCompass\CodeCompass\CodeCompass.RAG\src\CodeCompass.Indexing\obj\Debug\net8.0\ref\CodeCompass.Indexing.dll

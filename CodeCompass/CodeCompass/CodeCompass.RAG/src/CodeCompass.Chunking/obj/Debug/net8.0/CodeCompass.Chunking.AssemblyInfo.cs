@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeCompass.Chunking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe42ca20b9a717de021f63fccabc514209f9f28")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeCompass.Chunking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeCompass.Chunking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

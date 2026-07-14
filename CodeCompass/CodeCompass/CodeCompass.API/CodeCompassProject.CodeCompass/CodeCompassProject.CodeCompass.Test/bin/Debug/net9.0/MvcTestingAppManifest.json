@@ -1,14 +1,14 @@
 {
-  "CodeCompass.Chunking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking",
-  "CodeCompass.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core",
-  "CodeCompass.Embedding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding",
-  "CodeCompass.Indexing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing",
-  "CodeCompass.Parsing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing",
-  "CodeCompass.Pipeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline",
-  "CodeCompass.Search, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search",
-  "CodeCompass.Storage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage",
-  "CodeCompassProject.CodeCompass.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api",
-  "CodeCompassProject.CodeCompass.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application",
-  "CodeCompassProject.CodeCompass.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain",
-  "CodeCompassProject.CodeCompass.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository"
+  "CodeCompass.Chunking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking",
+  "CodeCompass.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core",
+  "CodeCompass.Embedding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding",
+  "CodeCompass.Indexing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing",
+  "CodeCompass.Parsing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing",
+  "CodeCompass.Pipeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline",
+  "CodeCompass.Search, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search",
+  "CodeCompass.Storage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage",
+  "CodeCompassProject.CodeCompass.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api",
+  "CodeCompassProject.CodeCompass.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application",
+  "CodeCompassProject.CodeCompass.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain",
+  "CodeCompassProject.CodeCompass.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository"
 }

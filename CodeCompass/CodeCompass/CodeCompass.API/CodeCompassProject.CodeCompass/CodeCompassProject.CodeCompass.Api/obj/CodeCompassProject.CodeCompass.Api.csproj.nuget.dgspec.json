@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\CodeCompassProject.CodeCompass.Api.csproj": {}
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\CodeCompassProject.CodeCompass.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\CodeCompassProject.CodeCompass.Api.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\CodeCompassProject.CodeCompass.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\CodeCompassProject.CodeCompass.Api.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\CodeCompassProject.CodeCompass.Api.csproj",
         "projectName": "CodeCompassProject.CodeCompass.Api",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\CodeCompassProject.CodeCompass.Api.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\CodeCompassProject.CodeCompass.Api.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -85,25 +85,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj",
         "projectName": "CodeCompassProject.CodeCompass.Application",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,11 +117,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               }
             }
           }
@@ -136,7 +136,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -160,25 +160,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj",
         "projectName": "CodeCompassProject.CodeCompass.Domain",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -204,7 +204,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -225,25 +225,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj",
         "projectName": "CodeCompassProject.CodeCompass.Repository",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\CodeCompassProject.CodeCompass.Repository.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -257,17 +257,17 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Application\\CodeCompassProject.CodeCompass.Application.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.API\\CodeCompassProject.CodeCompass\\CodeCompassProject.CodeCompass.Domain\\CodeCompassProject.CodeCompass.Domain.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj"
               }
             }
           }
@@ -282,7 +282,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -331,25 +331,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj",
         "projectName": "CodeCompass.Chunking",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -363,8 +363,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               }
             }
           }
@@ -379,7 +379,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -406,25 +406,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj",
         "projectName": "CodeCompass.Core",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -450,7 +450,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -497,25 +497,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj",
         "projectName": "CodeCompass.Embedding",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -529,8 +529,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               }
             }
           }
@@ -545,7 +545,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -580,25 +580,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj",
         "projectName": "CodeCompass.Indexing",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -612,8 +612,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               }
             }
           }
@@ -628,7 +628,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -659,25 +659,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj",
         "projectName": "CodeCompass.Parsing",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -691,8 +691,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               }
             }
           }
@@ -707,7 +707,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -746,25 +746,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj",
         "projectName": "CodeCompass.Pipeline",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\CodeCompass.Pipeline.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Pipeline\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -778,26 +778,26 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Chunking\\CodeCompass.Chunking.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Embedding\\CodeCompass.Embedding.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Indexing\\CodeCompass.Indexing.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Parsing\\CodeCompass.Parsing.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj"
               },
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj"
               }
             }
           }
@@ -812,7 +812,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -855,25 +855,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj",
         "projectName": "CodeCompass.Search",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\CodeCompass.Search.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -887,8 +887,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               }
             }
           }
@@ -903,7 +903,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -946,25 +946,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj": {
+    "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj",
+        "projectUniqueName": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj",
         "projectName": "CodeCompass.Storage",
-        "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj",
-        "packagesPath": "C:\\Users\\cs328\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\obj\\",
+        "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\CodeCompass.Storage.csproj",
+        "packagesPath": "C:\\Users\\VM112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Storage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
-          "C:\\Users\\cs328\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\NuGet.Config",
+          "C:\\Users\\VM112\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -978,8 +978,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
-                "projectPath": "C:\\Users\\cs328\\source\\repos\\Hackathon\\CodeCompass 1\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
+              "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj": {
+                "projectPath": "C:\\Users\\VM112\\source\\repos\\Hackathon-dev-up\\CodeCompass\\CodeCompass\\CodeCompass.RAG\\src\\CodeCompass.Core\\CodeCompass.Core.csproj"
               }
             }
           }
@@ -994,7 +994,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -1025,7 +1025,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

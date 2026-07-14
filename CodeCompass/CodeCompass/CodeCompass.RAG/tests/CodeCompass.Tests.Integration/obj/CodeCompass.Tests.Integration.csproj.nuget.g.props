@@ -5,12 +5,12 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\cs328\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\VM112\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.14.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.13.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\cs328\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\VM112\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
@@ -22,10 +22,10 @@
     <Import Project="$(NuGetPackageRoot)microsoft.codeanalysis.analyzers\5.3.0\buildTransitive\Microsoft.CodeAnalysis.Analyzers.props" Condition="Exists('$(NuGetPackageRoot)microsoft.codeanalysis.analyzers\5.3.0\buildTransitive\Microsoft.CodeAnalysis.Analyzers.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\cs328\.nuget\packages\xunit.analyzers\1.4.0</Pkgxunit_analyzers>
-    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\cs328\.nuget\packages\microsoft.codeanalysis.analyzers\5.3.0</PkgMicrosoft_CodeAnalysis_Analyzers>
-    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\cs328\.nuget\packages\awssdk.core\3.7.402.13</PkgAWSSDK_Core>
-    <PkgAWSSDK_OpenSearchService Condition=" '$(PkgAWSSDK_OpenSearchService)' == '' ">C:\Users\cs328\.nuget\packages\awssdk.opensearchservice\3.7.403</PkgAWSSDK_OpenSearchService>
-    <PkgAWSSDK_BedrockRuntime Condition=" '$(PkgAWSSDK_BedrockRuntime)' == '' ">C:\Users\cs328\.nuget\packages\awssdk.bedrockruntime\3.7.414</PkgAWSSDK_BedrockRuntime>
+    <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\VM112\.nuget\packages\xunit.analyzers\1.4.0</Pkgxunit_analyzers>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\VM112\.nuget\packages\microsoft.codeanalysis.analyzers\5.3.0</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\VM112\.nuget\packages\awssdk.core\3.7.402.13</PkgAWSSDK_Core>
+    <PkgAWSSDK_OpenSearchService Condition=" '$(PkgAWSSDK_OpenSearchService)' == '' ">C:\Users\VM112\.nuget\packages\awssdk.opensearchservice\3.7.403</PkgAWSSDK_OpenSearchService>
+    <PkgAWSSDK_BedrockRuntime Condition=" '$(PkgAWSSDK_BedrockRuntime)' == '' ">C:\Users\VM112\.nuget\packages\awssdk.bedrockruntime\3.7.414</PkgAWSSDK_BedrockRuntime>
   </PropertyGroup>
 </Project>
